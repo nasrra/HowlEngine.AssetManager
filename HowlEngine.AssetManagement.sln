@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowlEngine.AssetManagement", "HowlEngine.AssetManagement.csproj", "{531E4427-5DB0-1A07-A84E-2E27E6224A64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowlEngine.Math", "..\HowlEngine.Math\HowlEngine.Math.csproj", "{69262361-14A6-4263-9F21-7764798A0A7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{531E4427-5DB0-1A07-A84E-2E27E6224A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531E4427-5DB0-1A07-A84E-2E27E6224A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531E4427-5DB0-1A07-A84E-2E27E6224A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531E4427-5DB0-1A07-A84E-2E27E6224A64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69262361-14A6-4263-9F21-7764798A0A7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69262361-14A6-4263-9F21-7764798A0A7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69262361-14A6-4263-9F21-7764798A0A7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69262361-14A6-4263-9F21-7764798A0A7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54DB4C20-5650-4DBC-B5EA-D7410120B436}
+	EndGlobalSection
+EndGlobal

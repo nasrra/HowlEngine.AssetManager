@@ -1,0 +1,11 @@
+C:\MonogameProjects\HowlEngine.AssetManagement\bin\Debug\net8.0\HowlEngine.AssetManagement.deps.json
+C:\MonogameProjects\HowlEngine.AssetManagement\bin\Debug\net8.0\HowlEngine.AssetManagement.dll
+C:\MonogameProjects\HowlEngine.AssetManagement\bin\Debug\net8.0\HowlEngine.AssetManagement.pdb
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\HowlEngine.AssetManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\HowlEngine.AssetManagement.AssemblyInfoInputs.cache
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\HowlEngine.AssetManagement.AssemblyInfo.cs
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\HowlEngine.AssetManagement.csproj.CoreCompileInputs.cache
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\HowlEngine.AssetManagement.dll
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\refint\HowlEngine.AssetManagement.dll
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\HowlEngine.AssetManagement.pdb
+C:\MonogameProjects\HowlEngine.AssetManagement\obj\Debug\net8.0\ref\HowlEngine.AssetManagement.dll
